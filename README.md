@@ -2,11 +2,9 @@
 
 An application used to flags and counties, built with swift, UIKit.
 
-## Project Screen Shot(s)
-
-#### Example:   
-
-[ PRETEND SCREEN SHOT IS HERE ]
+## Project Screen Shots
+![](Screen1.png)
+![](Screen2.png)
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
 
