@@ -7,7 +7,7 @@ An application used to flags and counties, built with swift, UIKit.
   - assets
  
  ## Project Screen Shots
-<img scr="Screen1.png" width="100" >
+❮img src="Screen1.png" width="100" ❯
 
 ## More features soon 
 - animation
