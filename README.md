@@ -8,6 +8,7 @@ An application used to flags and counties, built with swift, UIKit.
  
  ## Project Screen Shots
 ![](Screen1.png | width=100)
+<img src="Screen1.png" width="100" height="100">
 
 ## More features soon 
 - animation
