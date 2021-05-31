@@ -1,18 +1,15 @@
 ## Guess the flag
 
 An application used to flags and counties, built with swift, UIKit.
-
-## Project Screen Shots
-![](Screen1.png)
-![](Screen2.png)
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
-
 ## Tools to implement the project
   - UIAlertController
   - view tag
   - assets
  
+ ## Project Screen Shots
+<img scr="Screen1.png" width= "150">
+<img scr="Screen2.png" width= "150">
+
 ## More features soon 
 - animation
 - more flags 
