@@ -5,6 +5,8 @@ An application used to flags and counties, built with swift, UIKit.
   - UIAlertController
   - view tag
   - assets
+  - CALayer
+  - CGColor
  
  ## Project Screen Shots
 <img src="Screen2.png" width="200"> <img src="Screen1.png" width="200">
