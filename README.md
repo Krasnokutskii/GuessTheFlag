@@ -1,7 +1,7 @@
 ## Guess the flag
 
 An application used to flags and counties, built with swift, UIKit.
-## Tools to implement the project
+## Tools implemented in project
   - UIAlertController
   - view tag
   - assets
