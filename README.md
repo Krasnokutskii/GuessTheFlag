@@ -26,7 +26,7 @@ An application used to flags and counties, built with swift, UIKit.
 
 ## More features soon 
 
-- animation
+- animations
 
 - more flags 
 
